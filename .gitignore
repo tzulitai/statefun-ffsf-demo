@@ -1,0 +1,7 @@
+*.iml
+.idea/
+venv/
+shopping-cart/package/
+target
+*.zip
+__pycache__
